@@ -1,0 +1,6 @@
+import org.apache.hadoop.hdfs.util.AtomicFileOutputStream;
+public class FunctionUse4539 {
+public void funcUse() {
+AtomicFileOutputStream atomicfileoutputstream = new AtomicFileOutputStream();
+}
+}
